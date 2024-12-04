@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\SciCal\SciCal\bin\Debug\SciCal.exe.config
+C:\Users\Admin\source\repos\SciCal\SciCal\bin\Debug\SciCal.exe
+C:\Users\Admin\source\repos\SciCal\SciCal\bin\Debug\SciCal.pdb
+C:\Users\Admin\source\repos\SciCal\SciCal\bin\Debug\SciCal.xml
+C:\Users\Admin\source\repos\SciCal\SciCal\obj\Debug\SciCal.vbproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SciCal\SciCal\obj\Debug\SciCal.Form1.resources
+C:\Users\Admin\source\repos\SciCal\SciCal\obj\Debug\SciCal.Resources.resources
+C:\Users\Admin\source\repos\SciCal\SciCal\obj\Debug\SciCal.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SciCal\SciCal\obj\Debug\SciCal.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SciCal\SciCal\obj\Debug\SciCal.exe
+C:\Users\Admin\source\repos\SciCal\SciCal\obj\Debug\SciCal.xml
+C:\Users\Admin\source\repos\SciCal\SciCal\obj\Debug\SciCal.pdb
